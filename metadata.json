@@ -1,0 +1,9 @@
+{
+  "name": "Growth Pixel Agency - Brilliance Nexus Websites",
+  "description": "Professional, fast and high-converting websites for freelancers, startups, churches, schools, real estate firms and online stores. Try live demos and chat with Brilliance Nexus on WhatsApp.",
+  "requestFeedback": false,
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
